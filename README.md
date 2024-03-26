@@ -1,5 +1,5 @@
 
-## Streamlit on ECS 
+## Deploying Streamlit Web Apps on Amazon ECS 
 
 Streamlit (https://streamlit.io/) provides a fast and easy way to build web apps and does not require front end development knowledge. Streamlit is a popular prototyping tool and is featured extensively in AWS Blog Articles, Labs, Workshops and Immersion Days. Most of these resources will run an ad-hoc instance of Streamlit - usually directly in the developer's IDE or Jupyter notebook. While this is great for learning and fast prototyping, it is not suitable for deploying a reliable Streamlit app.
 
